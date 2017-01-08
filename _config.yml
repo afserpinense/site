@@ -1,8 +1,10 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Associação Filarmónica Serpinense
+header: Bem vindo
+mobile: 91 940 76 16
+email: filarmonicaserpinense@gmail.com 
+url: http//filarmonicaserpinense.com
+description: "A Associação Filarmónica Serpinense é uma Associação jovem, fundada em 1995, com sede em Serpins, uma Vila no concelho da Lousã, no Centro de Portugal."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,20 +12,12 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Associação Filarmónica Serpinense
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.facebook.com/afserpinense
 
 # Build settings
 markdown: kramdown
